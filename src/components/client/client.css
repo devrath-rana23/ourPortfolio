@@ -1,0 +1,41 @@
+.client-section{
+  padding: 4rem 5rem;
+}
+.bg-clients .client-images img {
+  opacity: 0.5;
+}
+.ml-auto,
+.mx-auto {
+  margin-left: auto;
+}
+.mr-auto,
+.mx-auto {
+  margin-right: auto;
+}
+.d-block {
+  display: block;
+}
+.img-fluid,
+.img-thumbnail {
+  max-width: 100%;
+  height: auto;
+}
+.clients-summary-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+
+}
+.bg-clients {
+  border-radius: 0 0 300px 0;
+}
+.row1 {
+  padding: 4rem 0;
+  /* background-color: red; */
+  justify-content: space-around;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
